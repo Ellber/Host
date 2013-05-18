@@ -1,0 +1,492 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Fake Host - Hospedagem de Sites, Registros de Domínios, Servidores Dedicados, Streamings e Serviços de Internet.</title>
+<link href="css/smarthost.css" rel="stylesheet" type="text/css" />
+<link href="fonts/stylesheet.css" rel="stylesheet" type="text/css" />
+<link href="css/editable_buttons.css" rel="stylesheet" type="text/css" />
+<link href="css/drop_menu.css" rel="stylesheet" type="text/css" />
+<link href="front.css" media="screen, projection" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="css/styles.css" />
+
+<script type="text/javascript" src="js/jquery.js"></script>
+
+
+<script type="text/javascript">
+
+this.randomtip = function(){
+
+  var pause = 3000; // define the pause for each tip (in milliseconds) Feel free to make the pause longer so users can have time to read the tips :)
+	var length = $("#tips li").length; 
+	var temp = -1;		
+
+	this.getRan = function(){
+		// get the random number
+		var ran = Math.floor(Math.random()*length) + 1;
+		return ran;
+	};
+	this.show = function(){
+		var ran = getRan();
+		// to avoid repeating tips we need to check 
+		while (ran == temp){
+			ran = getRan();
+		}; 
+		temp = ran;
+		$("#tips li").hide();	
+		$("#tips li:nth-child(" + ran + ")").fadeIn("fast");		
+	};
+	// initiate the script and also set an interval
+	show(); setInterval(show,pause);
+	
+};
+
+$(document).ready(function(){	
+	randomtip();
+});
+</script>
+
+<script src="js/jquery-latest.js" type="text/javascript"></script>
+	<script src="js/shBrushXml.js" type="text/javascript"></script>
+	<script src="js/jquery.bxslider2.min.js" type="text/javascript"></script>
+	<script src="js/scripts.js" type="text/javascript"></script>
+    
+    <script type="text/javascript" charset="utf-8">
+		SyntaxHighlighter.all();
+	</script>
+
+<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+	try {
+	var pageTracker = _gat._getTracker("UA-7965261-3");
+	pageTracker._trackPageview();
+	} catch(err) {}</script>
+
+</head>
+
+<body>
+<div id="wrap">
+	<div id="header">
+    	<div class="top_sec">
+        	<div class="container">
+            	<ul>
+                	<li class="number">(+11) 0000 0000</li>
+                </ul>
+                
+                
+                
+                
+                
+                <div class="buttons">
+                	<a class="chat" href="#."></a>
+                    <div id="container">
+  <div id="topnav" class="topnav"> <a href="login.html" class="signin"><span></span></a> </div>
+  <fieldset id="signin_menu">
+    <form method="post" id="signin" action="https://twitter.com/sessions">
+      <label for="username">Usuário ou e-mail</label>
+      <input id="username" name="username" value="" title="username" tabindex="4" type="text">
+      </p>
+      <p>
+        <label for="password">Senha</label>
+        <input id="password" name="password" value="" title="password" tabindex="5" type="password">
+      </p>
+      <p class="remember">
+        <input id="signin_submit" value="Entrar" tabindex="6" type="submit">
+        <input id="remember" name="remember_me" value="1" tabindex="7" type="checkbox">
+        <label for="remember">Lembrar-me</label>
+      </p>
+      <p class="forgot"> <a href="#" id="resend_password_link">Esqueceu sua senha?</a> </p>
+      
+    </form>
+  </fieldset>
+</div>
+
+
+
+                    
+                </div>
+            </div>
+        </div>
+        
+        
+        <div class="main_bar">
+        	<div class="container">
+        		<a href="index-2.html"><img class="logo" src="images/logo.jpg" alt="" border="0" /></a>
+                
+              	<div class="navi">
+                	<ul id="menu">
+                    	
+                        
+        
+                    	<li class="selected"><a class="selected" href="index-2.html">Início</a></li>
+                        <li><a href="about.html" >Empresa</a></li>
+                        <li>
+                        <a href="web_hosting.html">Planos e Serviços</a>
+                        <ul>
+                                <li><a href="web_hosting.html">Hospedagem</a></li>
+                                <li><a href="cloud_servers.html">Streaming</a></li>
+                                <li><a href="domain.html">Registro de Domínio</a></li>
+                                <li><a href="contact_us.html">Revenda de Hospedagem</a></li>
+                                <li><a href="contact_us.html">Suporte</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="cloud_servers.html">VPS</a></li>
+                        <li><a href="dedicated_server.html">Servidores Dedicados</a></li>
+                        <li class="last"><a href="contact_us.html">Contato</a></li>
+                    </ul>
+                </div>
+        	</div>
+        </div>
+    </div>
+    <div class="clear"></div>
+    
+    <div id="banner">
+    	
+        
+        
+
+<div id="content"><div id="content_inner">
+  <!-- end intro -->
+  <!-- end sidebar_right -->
+<ul id="slides1">
+			
+
+            	<li>
+                    <div class="content">
+                        <img class="banner_text" src="images/banner_text.png" alt="" border="0" />
+                        <p>Sem Custos Adicionais e <span class="green">Garantimos</span> o melhor serviço ou seu dinheiro de volta.</p>
+                        <a href="#." class="btn-org banner_btn" ><span class="blk-org">Ver Serviços e Planos</span></a>
+                        <div class="clear"></div>
+                        <img class="server" src="images/server_img.jpg" alt="" border="0" />
+                    </div>
+                </li>
+            
+            
+            	<li>
+                    <div class="content_two">
+                        <img class="man" src="images/banner_man.png" alt="" border="0" />
+                        <div class="text">
+                        	<p>Os melhores serviços</p>
+                            <h1>melhores preços</h1>
+                            <p> exclusivos para você.</p>
+                            <div class="buttons">
+                        <a href="#." class="small_btn-gry banner_two_btn" ><span class="small_blk-gry">Ler Mais</span></a>
+                        <a href="#." class="small_btn-org " ><span class="small_blk-org">Contratar</span></a>
+                    </div>
+                        </div>
+                    </div>
+                    
+                </li>
+                
+                <li>
+                    <div class="content_three">
+                    	<h1>Nós Oferecemos O Melhor <span class="orange">Suporte </span><br /> <span class="green"><span class="large">Para Você</span></h1>
+                    </div>
+                    
+                </li>
+            
+	</ul>
+</div>
+</div>
+    	
+    </div>
+    <div class="clear"></div>
+    
+    <div id="content">
+       	<div class="container">
+           	<div class="domain">
+    			<p>Registro de Domínio :</p>
+                <input name="" type="text" value="www.seudominio.com" />
+                <div class="domain_btns">
+                    <a href="#." class="btn-grn domain_button" ><span class="blk-grn">Checar Disponibilidade</span></a>
+                    <a href="#." class="btn-gry" ><span class="blk-gry">Encomendar Host</span></a>
+                </div>
+            </div>
+            
+            <div class="welcome">
+            	<h1>Bem vindo a Fake Host</h1>
+                <div class="text">
+                	<p>A Fake Host oferece os melhores recursos para seu site. Conheça nossos planos e serviços e veja nossos diferenciais.</p>
+                    <div class="section">
+                    <ul>
+                        <li class="tick">Hospedagem</li>
+                        <li class="tick">Streaming</li>
+                        <li class="tick">Registro de Domínio</li>
+                        <li class="tick">Revenda de Hospedagem</li>
+                    </ul>    
+                    </div>
+                    
+                    <div class="section">
+                    <ul>
+                        <li class="tick">VPS</li>
+                        <li class="tick">Servidores Dedicados</li>
+                        <li class="tick">Suporte 24/7</li>
+                        <li class="tick">Segurança</li>
+                    </ul>    
+                    </div>
+                    
+                </div>
+                <img class="welcome_img" src="images/welcome_img.jpg" alt="" border="0" />
+                
+          </div>
+            
+            <div class="testimonial">
+            	<h3>Depoimentos</h3>
+                
+            	<ul id="tips">
+				<li><p>Excelente prestadora de serviço. Oferece suporte eficiente e rápido. Os serviços são sempre de ótima qualidade.</p> <span class="name">Ellber Rodrigo,</span>
+                <span class="work">CEO Fonder</span></li>  
+                <li><p>Estabilidade e disponibilidade 24 horas, oferecendo aos clientes um serviço de alta qualidade.</p> <span class="name">Nadeem Doe,</span>
+                <span class="work">Facebook Director</span></li>  
+                <li><p>O serviço oferecido pela Fake Host é de 1ª qualidade.</p> <span class="name">Tanveer Smith,</span>
+                <span class="work">IT Infrastructure Manager</span></li>  
+                <li><p>Os melhores preços e serviços do mercado.</p> <span class="name">Hassan Jhon,</span>
+                <span class="work">Development Manager</span></li>  
+				</ul>
+            
+            	
+            	
+                
+            </div>
+        </div>
+        <div class="clear"></div>
+        
+        <div class="services">
+        	<div class="container">
+            	<div class="service_sec">
+                	<img src="images/system_admin.jpg" alt="" border="0" />
+                    <h2>Central <span>do Cliente</span></h2>
+                    <p>Um painel organizado e exclusivo para o cliente poder administrador todos os seus serviços.</p>
+                </div>
+                
+                <div class="service_sec">
+                	<img src="images/backup.jpg" alt="" border="0" />
+                    <h2><span>Backups</span> e Serviços</h2>
+                    <p>Uma infraestrutura confiável para hospedar sites e jogos de todos os portes.</p>
+                </div>
+                
+                <div class="service_sec last">
+                	<img src="images/live_support.jpg" alt="" border="0" />
+                    <h2><span>Suporte </span>24/7</h2>
+                    <p>Suporte de qualidade 24/7 com uma equipe de profissionais que resolvem seus problemas.</p>
+                </div>
+                
+            </div>
+            <div class="clear"></div>
+        </div>
+        
+        <div class="table">
+        	<div class="container">
+            	<div class="table_sec">
+                	<h2 class="orange">Grátis</h2>
+                    <div class="detail">
+                    	<p>$00.00 <br /><span class="month">por mês</span></p>
+                        <ul>
+                            <li>200 MB de Disco</li>
+                            <li>5 GB de Tráfego</li>
+                            <li><img src="images/table_cross.png" alt="" border="0" /></li>
+                            <li>2 Bancos de Dados</li>
+                            <li>2 Contas de E-mail</li>
+                        </ul>
+                        <a href="#." class="small_btn-org table_btn" ><span class="small_blk-org">Contratar</span></a>
+                        <div class="clear"></div>
+                    </div>
+                    <img src="images/table_bot.png" alt="" border="0" />
+                </div>
+                
+              <div class="table_sec">
+                	<h2>Básico</h2>
+                    <div class="detail">
+                    	<p>R$ 8,90 <br /><span class="month">por mês</span></p>
+                        <ul>
+                            <li>5 GB de Disco</li>
+                            <li>ILIMITADO</li>
+                            <li><img src="images/table_tick.png" alt="" border="0" /></li>
+                            <li>ILIMITADO</li>
+                            <li>ILIMITADO</li>
+                        </ul>
+                        <a href="#." class="small_btn-gry table_btn" ><span class="small_blk-gry">Contratar</span></a>
+                        <div class="clear"></div>
+                    </div>
+                    <img src="images/table_bot.png" alt="" border="0" />
+                </div>
+                
+                <div class="table_sec">
+                	<h2>Médio</h2>
+                    <div class="detail">
+                   	  <p>R$ 16,90 <br /><span class="month">por mês</span></p>
+                        <ul>
+                            <li>20 GB de Disco</li>
+                            <li>ILIMITADO</li>
+                            <li><img src="images/table_tick.png" alt="" border="0" /></li>
+                            <li>ILIMITADO</li>
+                            <li>ILIMITADO</li>
+                        </ul>
+                        <a href="#." class="small_btn-gry table_btn" ><span class="small_blk-gry">Contratar</span></a>
+                        <div class="clear"></div>
+                    </div>
+                    <img src="images/table_bot.png" alt="" border="0" />
+                </div>
+                
+              <div class="table_sec last">
+                	<h2>Máximo</h2>
+                    <div class="detail">
+                   	  <p>$25,90 <br /><span class="month">por mês</span></p>
+                        <ul>
+                            <li>ILIMITADO</li>
+                            <li>ILIMITADO</li>
+                            <li><img src="images/table_tick.png" alt="" border="0" /></li>
+                            <li>ILIMITADO</li>
+                            <li>ILIMITADO</li>
+                        </ul>
+                        <a href="#." class="small_btn-gry table_btn" ><span class="small_blk-gry">Contratar</span></a>
+                        <div class="clear"></div>
+                    </div>
+                    <img src="images/table_bot.png" alt="" border="0" />
+                </div>
+                
+          </div>
+            <div class="clear"></div>
+        </div>
+        
+        
+    </div>
+    	
+        <div class="container">
+        	<img class="client" src="images/client.png" alt="" border="0" />
+        </div>
+        
+    <div id="footer">
+    	<div class="building"></div>
+        <div class="detail">
+        	<div class="container">
+            	<div class="blog">
+                	<img class="blog_img" src="images/blog_img.jpg" alt="" border="0" />
+                    <div class="text">
+                    	<span>Seu dinheiro de volta!<span class="date"></span></span>
+                        <div class="clear"></div>
+                        <span class="title">Caso você não goste de nosso serviços, devolvemos seu dinheiro.</span>
+                        <p></p>
+                    </div>
+                </div>
+                
+                <div class="email">
+                	<input name="" type="text" value="Endereço de e-mail" />
+                    <input name="" type="submit" value="Enviar" />
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div>
+        
+        <div class="footer_bot">
+        	<div class="container">
+            <div class="links">
+            	<h3>Fake Host</h3>
+                <ul>
+                	<li><a href="#.">Início</a></li>
+                    <li><a href="#.">Empresa</a></li>
+                    <li><a href="#.">Hospedagem</a></li>
+                    <li><a href="#.">Servidores</a></li>
+                    <li><a href="#.">Contato</a></li>
+                </ul>
+            </div>
+            
+            <div class="links">
+            	<h3>Suporte</h3>
+                <ul>
+                	<li><a href="#.">FAQ.s</a></li>
+                    <li><a href="#.">Suporte Online</a></li>
+                    <li><a href="#.">Ticket de Suporte</a></li>
+                </ul>
+            </div>
+            
+            <div class="links">
+            	<h3>Minha Conta</h3>
+                <ul>
+                	<li><a href="#.">Entrar</a></li>
+                    <li><a href="#.">Ver Carrinho</a></li>
+                    <li><a href="#.">Lista de Desejos</a></li>
+                    <li><a href="#.">Suporte</a></li>
+                </ul>
+            </div>
+            
+            <div class="links">
+            	<h3>Redes Sociais</h3>
+                <div class="social">
+                    <ul>
+                        <li class="fb"><a href="#.">Facebook</a></li>
+                        <li class="tw"><a href="#.">Twiiter</a></li>
+                        <li class="gp"><a href="#.">Google+</a></li>
+                        <li class="yt"><a href="#.">Youtube</a></li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="links last">
+            	<h3>Atendimento</h3>
+                <div class="get_touch">
+                	<ul>
+                    	<li class="mb"><a>(+11) 0000 000</a></li>
+                        <li class="email"><a>suporte@fakehost.com</a></li>
+                        <li class="address"><a>Nº 000 , Avenida, Bairro, Cidade, Estado, CEP</a></li>
+                        <img src="images/paypal.png" alt="" />
+                    </ul>
+                </div>
+            </div>
+            
+            
+            </div>
+        <div class="clear"></div>    
+        </div>
+        
+        <div class="copyright">
+        	<div class="container">
+            	<p>Copyright © 2013 Fake Host. Todos os direitos reservados.</p>
+                <div class="privacy">
+                	<ul>
+                        <li><a href="#.">Política de Privacidade</a></li> <li><a href="#.">Termos</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+            
+    </div>
+    
+</div>
+
+<script type="text/javascript">
+        $(document).ready(function() {
+
+            $(".signin").click(function(e) {          
+				e.preventDefault();
+                $("fieldset#signin_menu").toggle();
+				$(".signin").toggleClass("menu-open");
+            });
+			
+			$("fieldset#signin_menu").mouseup(function() {
+				return false
+			});
+			$(document).mouseup(function(e) {
+				if($(e.target).parent("a.signin").length==0) {
+					$(".signin").removeClass("menu-open");
+					$("fieldset#signin_menu").hide();
+				}
+			});			
+			
+        });
+</script>
+
+<script type='text/javascript'>
+    $(function() {
+	  $('#forgot_username_link').tipsy({gravity: 'w'});   
+    });
+  </script>
+
+
+</body>
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+</html>
